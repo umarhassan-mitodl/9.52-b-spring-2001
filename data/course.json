@@ -26,6 +26,7 @@
     "website": "9-52-b-topics-in-brain-and-cognitive-sciences-human-ethology-spring-2001"
   },
   "course_title": "Topics in Brain and Cognitive Sciences Human Ethology",
+  "hide_download": true,
   "course_description": "Survey and special topics designed for students in Brain and Cognitive Sciences. Emphasizes ethological studies of natural behavior patterns and their analysis in laboratory work, with contributions from field biology (mammology, primatology), sociobiology, and comparative psychology. Stresses human behavior but also includes major contributions from studies of other animals.\n",
   "department_numbers": [
     "9"
@@ -36,6 +37,7 @@
     "content": "ddb3dc6f-2d79-fe51-8342-b5e40266ddb2",
     "website": "9-52-b-topics-in-brain-and-cognitive-sciences-human-ethology-spring-2001"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Written Assignments",
     "Presentation Assignments"

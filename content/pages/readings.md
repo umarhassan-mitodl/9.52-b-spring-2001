@@ -4,6 +4,8 @@ description: The readings listed in this section are the foundation of this cour
   Where available, journal article abstracts from PubMed (an online database providing
   access to citations from biomedical literature) are included.
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
