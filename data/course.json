@@ -1,0 +1,47 @@
+{
+  "term": "Spring",
+  "year": "2001",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Social Science",
+      "Psychology"
+    ]
+  ],
+  "legacy_uid": "5e26b3c4-92c3-c658-955d-b574ce9fc352",
+  "instructors": {
+    "content": [
+      "62fb6017-6afd-4c1d-95a2-66f739afd718"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "fd5c8cf8-e50f-7065-a106-57b549440a2e",
+    "website": "9-52-b-topics-in-brain-and-cognitive-sciences-human-ethology-spring-2001"
+  },
+  "course_title": "Topics in Brain and Cognitive Sciences Human Ethology",
+  "course_description": "Survey and special topics designed for students in Brain and Cognitive Sciences. Emphasizes ethological studies of natural behavior patterns and their analysis in laboratory work, with contributions from field biology (mammology, primatology), sociobiology, and comparative psychology. Stresses human behavior but also includes major contributions from studies of other animals.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.52-B",
+  "course_image_thumbnail": {
+    "content": "ddb3dc6f-2d79-fe51-8342-b5e40266ddb2",
+    "website": "9-52-b-topics-in-brain-and-cognitive-sciences-human-ethology-spring-2001"
+  },
+  "learning_resource_types": [
+    "Written Assignments",
+    "Presentation Assignments"
+  ],
+  "site_uid": "e44bfbd3-820a-4ad7-9031-2574809531fe",
+  "site_short_id": "9.52-b-spring-2001",
+  "site_url_path": "courses/9-52-b-topics-in-brain-and-cognitive-sciences-human-ethology-spring-2001",
+  "title": "Course Metadata"
+}
